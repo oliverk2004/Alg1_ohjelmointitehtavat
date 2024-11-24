@@ -13,14 +13,26 @@ class OT2
             taulukko[i] = rnd.Next(1, 50); // Arvotaan luvut väliltä 1-50 kokonaislukutaulukkoon.
         }
         Array.Sort(taulukko); // Järjestetään taulukko suuruusjärjestykseen.
-        Console.WriteLine(string.Join(",", taulukko));
+        Console.WriteLine("Taulukko (suuruus: " + taulukko.Length + " alkiota): " + string.Join(",", taulukko));
         Console.WriteLine();
         
         Binaarihaku(taulukko, 10);
         Binaarihaku(taulukko, 20);
         Binaarihaku(taulukko, 30);
         Binaarihaku(taulukko, 40);
-        // Tänne testit ja muu pääohjelma...
+        
+        // TODO: Tämä ok nyt pienellä taulukolla, mutta toteuta vielä isommalla taulukolla.
+
+        int[] taulukkoSataAlkiota = new int[rnd.Next(50,100)];
+
+        for (int i = 0; i < taulukkoSataAlkiota.Length; i++)
+        {
+            taulukkoSataAlkiota[i] = rnd.Next(1, 50);
+        }
+        Array.Sort(taulukkoSataAlkiota);
+        Console.WriteLine("Taulukko (suuruus: " + taulukkoSataAlkiota.Length + " alkiota)");
+
+
     }
 
     public static void Binaarihaku(int[] taulukko, int haettavaAlkio)
