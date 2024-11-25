@@ -20,8 +20,8 @@ class OT2
         Binaarihaku(taulukko, 20);
         Binaarihaku(taulukko, 30);
         Binaarihaku(taulukko, 40);
-        
-        // TODO: Tämä ok nyt pienellä taulukolla, mutta toteuta vielä isommalla taulukolla.
+
+        Console.WriteLine("--------------------------------------------------------------------------------");
 
         int[] taulukkoSataAlkiota = new int[rnd.Next(50,100)];
 
@@ -30,7 +30,13 @@ class OT2
             taulukkoSataAlkiota[i] = rnd.Next(1, 50);
         }
         Array.Sort(taulukkoSataAlkiota);
-        Console.WriteLine("Taulukko (suuruus: " + taulukkoSataAlkiota.Length + " alkiota)");
+        Console.WriteLine("Taulukko (suuruus: " + taulukkoSataAlkiota.Length + " alkiota).");
+        Console.WriteLine();
+        
+        Binaarihaku(taulukkoSataAlkiota, 10);
+        Binaarihaku(taulukkoSataAlkiota, 20);
+        Binaarihaku(taulukkoSataAlkiota, 30);
+        Binaarihaku(taulukkoSataAlkiota, 40);
 
 
     }
@@ -43,29 +49,31 @@ class OT2
                                  // kohti pienempiä indeksejä. 
         // Haettava alkio pidetään siis koko ajan näiden indeksien välissä ja kun algoritmi päättyy,
         // alkio löytyy paikasta j.
-        int vertailuopertaatiot = 0;
+        int vertailuopertaatiot = 0; // tallennetaan vertailuoperaatioiden lukumäärä. 
 
-        while (j-i > 1)
+        while (j-i > 1) // while-silmukka jatkaa kunnes taulukossa ei ole alkiota eli näiden erotus on < 1. 
         {
             vertailuopertaatiot++;
-            int k = (i+j) / 2;
-            if (haettavaAlkio <= taulukko[k])
+            int k = (i+j) / 2; // Selvitetään taulukon keskikohta. 
+            if (haettavaAlkio <= taulukko[k]) // Jos haettava alkio on pienempi kuin taulukon keskikohta.
             {
-                j = k;
+                j = k; // Siirretään indeksi j taulukon keskikohtaan, jolloin käsitellään taulukon alkioita, jotka
+                       // ovat pienempiä kuin taulukon keskikohta (binäärihaussa juuri). 
             }
-            else
+            else // Jos taas suurempi, niin...
             {
-                i = k;
+                i = k; //... Siirretään indeksi i keskikohtaan, jolloin käsitellään taulukon alkoita, jotka
+                       //ovat suurempia kuin taulukon "juuri". 
             }
         }
 
-        if (j < taulukko.Length && haettavaAlkio == taulukko[j])
+        if (j < taulukko.Length && haettavaAlkio == taulukko[j]) // Jos j on taulukon "sisällä" ja haettavaAlkio löytyy.
         {
             Console.WriteLine("Alkio " + haettavaAlkio + " löytyi paikasta: " + j);
             Console.WriteLine("Vertailuopertaatioita tehtiin: " + vertailuopertaatiot);
             Console.WriteLine();
         }
-        else
+        else // Jos haettavaAlkio ei löytynyt niin.
         {
             Console.WriteLine("Haettu alkio: " + haettavaAlkio + " ei ole taulukossa.");
             Console.WriteLine("Vertailuopertaatioita tehtiin: " + vertailuopertaatiot);
