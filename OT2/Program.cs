@@ -23,13 +23,13 @@ class OT2
 
         Console.WriteLine("--------------------------------------------------------------------------------");
 
-        int[] taulukkoSataAlkiota = new int[rnd.Next(50,100)];
+        int[] taulukkoSataAlkiota = new int[rnd.Next(50,100)]; // Luodaan taulukko, jonka suuruus on 50-100 alkion väliltä. 
 
         for (int i = 0; i < taulukkoSataAlkiota.Length; i++)
         {
-            taulukkoSataAlkiota[i] = rnd.Next(1, 50);
+            taulukkoSataAlkiota[i] = rnd.Next(1, 50); // Arvotaan luvut väliltä 1-50 kokonaislukutaulukkoon.
         }
-        Array.Sort(taulukkoSataAlkiota);
+        Array.Sort(taulukkoSataAlkiota); // Järjestetään taulukko suuruusjärjestykseen.
         Console.WriteLine("Taulukko (suuruus: " + taulukkoSataAlkiota.Length + " alkiota).");
         Console.WriteLine();
         
