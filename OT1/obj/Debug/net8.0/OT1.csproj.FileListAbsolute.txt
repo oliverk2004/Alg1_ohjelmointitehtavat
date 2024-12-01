@@ -12,3 +12,4 @@ C:\kurssit\Algoritmit1\ohjelmointitehtävät\OT1\obj\Debug\net8.0\refint\OT1.dll
 C:\kurssit\Algoritmit1\ohjelmointitehtävät\OT1\obj\Debug\net8.0\OT1.pdb
 C:\kurssit\Algoritmit1\ohjelmointitehtävät\OT1\obj\Debug\net8.0\OT1.genruntimeconfig.cache
 C:\kurssit\Algoritmit1\ohjelmointitehtävät\OT1\obj\Debug\net8.0\ref\OT1.dll
+C:\kurssit\Algoritmit1\ohjelmointitehtävät\OT1\obj\Debug\net8.0\OT1.sourcelink.json

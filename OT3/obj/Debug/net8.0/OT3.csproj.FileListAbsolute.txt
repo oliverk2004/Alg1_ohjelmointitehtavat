@@ -1,0 +1,15 @@
+C:\kurssit\Algoritmit1\ohjelmointitehtävät\OT3\bin\Debug\net8.0\OT3.exe
+C:\kurssit\Algoritmit1\ohjelmointitehtävät\OT3\bin\Debug\net8.0\OT3.deps.json
+C:\kurssit\Algoritmit1\ohjelmointitehtävät\OT3\bin\Debug\net8.0\OT3.runtimeconfig.json
+C:\kurssit\Algoritmit1\ohjelmointitehtävät\OT3\bin\Debug\net8.0\OT3.dll
+C:\kurssit\Algoritmit1\ohjelmointitehtävät\OT3\bin\Debug\net8.0\OT3.pdb
+C:\kurssit\Algoritmit1\ohjelmointitehtävät\OT3\obj\Debug\net8.0\OT3.GeneratedMSBuildEditorConfig.editorconfig
+C:\kurssit\Algoritmit1\ohjelmointitehtävät\OT3\obj\Debug\net8.0\OT3.AssemblyInfoInputs.cache
+C:\kurssit\Algoritmit1\ohjelmointitehtävät\OT3\obj\Debug\net8.0\OT3.AssemblyInfo.cs
+C:\kurssit\Algoritmit1\ohjelmointitehtävät\OT3\obj\Debug\net8.0\OT3.csproj.CoreCompileInputs.cache
+C:\kurssit\Algoritmit1\ohjelmointitehtävät\OT3\obj\Debug\net8.0\OT3.sourcelink.json
+C:\kurssit\Algoritmit1\ohjelmointitehtävät\OT3\obj\Debug\net8.0\OT3.dll
+C:\kurssit\Algoritmit1\ohjelmointitehtävät\OT3\obj\Debug\net8.0\refint\OT3.dll
+C:\kurssit\Algoritmit1\ohjelmointitehtävät\OT3\obj\Debug\net8.0\OT3.pdb
+C:\kurssit\Algoritmit1\ohjelmointitehtävät\OT3\obj\Debug\net8.0\OT3.genruntimeconfig.cache
+C:\kurssit\Algoritmit1\ohjelmointitehtävät\OT3\obj\Debug\net8.0\ref\OT3.dll
