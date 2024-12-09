@@ -1,0 +1,15 @@
+/media/oliverkanden/Windows/kurssit/Algoritmit1/ohjelmointitehtävät/OT4/bin/Debug/net8.0/OT4
+/media/oliverkanden/Windows/kurssit/Algoritmit1/ohjelmointitehtävät/OT4/bin/Debug/net8.0/OT4.deps.json
+/media/oliverkanden/Windows/kurssit/Algoritmit1/ohjelmointitehtävät/OT4/bin/Debug/net8.0/OT4.runtimeconfig.json
+/media/oliverkanden/Windows/kurssit/Algoritmit1/ohjelmointitehtävät/OT4/bin/Debug/net8.0/OT4.dll
+/media/oliverkanden/Windows/kurssit/Algoritmit1/ohjelmointitehtävät/OT4/bin/Debug/net8.0/OT4.pdb
+/media/oliverkanden/Windows/kurssit/Algoritmit1/ohjelmointitehtävät/OT4/obj/Debug/net8.0/OT4.GeneratedMSBuildEditorConfig.editorconfig
+/media/oliverkanden/Windows/kurssit/Algoritmit1/ohjelmointitehtävät/OT4/obj/Debug/net8.0/OT4.AssemblyInfoInputs.cache
+/media/oliverkanden/Windows/kurssit/Algoritmit1/ohjelmointitehtävät/OT4/obj/Debug/net8.0/OT4.AssemblyInfo.cs
+/media/oliverkanden/Windows/kurssit/Algoritmit1/ohjelmointitehtävät/OT4/obj/Debug/net8.0/OT4.csproj.CoreCompileInputs.cache
+/media/oliverkanden/Windows/kurssit/Algoritmit1/ohjelmointitehtävät/OT4/obj/Debug/net8.0/OT4.sourcelink.json
+/media/oliverkanden/Windows/kurssit/Algoritmit1/ohjelmointitehtävät/OT4/obj/Debug/net8.0/OT4.dll
+/media/oliverkanden/Windows/kurssit/Algoritmit1/ohjelmointitehtävät/OT4/obj/Debug/net8.0/refint/OT4.dll
+/media/oliverkanden/Windows/kurssit/Algoritmit1/ohjelmointitehtävät/OT4/obj/Debug/net8.0/OT4.pdb
+/media/oliverkanden/Windows/kurssit/Algoritmit1/ohjelmointitehtävät/OT4/obj/Debug/net8.0/OT4.genruntimeconfig.cache
+/media/oliverkanden/Windows/kurssit/Algoritmit1/ohjelmointitehtävät/OT4/obj/Debug/net8.0/ref/OT4.dll
