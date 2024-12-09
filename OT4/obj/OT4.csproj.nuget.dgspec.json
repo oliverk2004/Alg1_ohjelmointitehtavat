@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/media/oliverkanden/Windows/kurssit/Algoritmit1/ohjelmointitehtävät/OT2/OT2.csproj": {}
+    "/media/oliverkanden/Windows/kurssit/Algoritmit1/ohjelmointitehtävät/OT4/OT4.csproj": {}
   },
   "projects": {
-    "/media/oliverkanden/Windows/kurssit/Algoritmit1/ohjelmointitehtävät/OT2/OT2.csproj": {
+    "/media/oliverkanden/Windows/kurssit/Algoritmit1/ohjelmointitehtävät/OT4/OT4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/media/oliverkanden/Windows/kurssit/Algoritmit1/ohjelmointitehtävät/OT2/OT2.csproj",
-        "projectName": "OT2",
-        "projectPath": "/media/oliverkanden/Windows/kurssit/Algoritmit1/ohjelmointitehtävät/OT2/OT2.csproj",
+        "projectUniqueName": "/media/oliverkanden/Windows/kurssit/Algoritmit1/ohjelmointitehtävät/OT4/OT4.csproj",
+        "projectName": "OT4",
+        "projectPath": "/media/oliverkanden/Windows/kurssit/Algoritmit1/ohjelmointitehtävät/OT4/OT4.csproj",
         "packagesPath": "/home/oliverkanden/.nuget/packages/",
-        "outputPath": "/media/oliverkanden/Windows/kurssit/Algoritmit1/ohjelmointitehtävät/OT2/obj/",
+        "outputPath": "/media/oliverkanden/Windows/kurssit/Algoritmit1/ohjelmointitehtävät/OT4/obj/",
         "projectStyle": "PackageReference",
         "UsingMicrosoftNETSdk": false,
         "configFilePaths": [

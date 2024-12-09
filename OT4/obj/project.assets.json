@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/media/oliverkanden/Windows/kurssit/Algoritmit1/ohjelmointitehtävät/OT3/OT3.csproj",
-      "projectName": "OT3",
-      "projectPath": "/media/oliverkanden/Windows/kurssit/Algoritmit1/ohjelmointitehtävät/OT3/OT3.csproj",
+      "projectUniqueName": "/media/oliverkanden/Windows/kurssit/Algoritmit1/ohjelmointitehtävät/OT4/OT4.csproj",
+      "projectName": "OT4",
+      "projectPath": "/media/oliverkanden/Windows/kurssit/Algoritmit1/ohjelmointitehtävät/OT4/OT4.csproj",
       "packagesPath": "/home/oliverkanden/.nuget/packages/",
-      "outputPath": "/media/oliverkanden/Windows/kurssit/Algoritmit1/ohjelmointitehtävät/OT3/obj/",
+      "outputPath": "/media/oliverkanden/Windows/kurssit/Algoritmit1/ohjelmointitehtävät/OT4/obj/",
       "projectStyle": "PackageReference",
       "UsingMicrosoftNETSdk": false,
       "configFilePaths": [
